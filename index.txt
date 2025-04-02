@@ -1,24 +1,19 @@
-vCard - Personal Portfolio
+Yihao CHENG
 
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Yihao CHNEG
+Research Assistant
 
 Show Contacts
 
 Email
-richard@example.com
+yihaoeee@connect.hku.hk
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
 
 Location
-Sacramento, California, USA
+A804, Saint Francis University, Hong Kong
 
 # navbar
 
